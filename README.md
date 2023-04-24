@@ -1,6 +1,6 @@
-She/Her
-Young
-Javascript
+- She/Her
+- Young
+- Javascript
 
 ### My daily routine :
 
